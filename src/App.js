@@ -1,5 +1,10 @@
-import React,{useEffect} from 'react'
+import React, { useEffect, ReactDOM } from 'react'
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './Component/Mainpage/Home'
+import Contactus from './Component/Contact/Contactus';
+import Aboutus from './Component/About/Aboutus';
+import Service from './Component/Services/Service';
+
 
 function App() {
   useEffect(() => {
@@ -16,7 +21,7 @@ function App() {
     // loadScript("assets/js/dsn-grid.min.js");
     loadScript("assets/js/custom.js");
 
-   
+
     return () => {
       document.querySelectorAll('script').forEach(script => {
         if (script.src.includes('assets/js/')) {
@@ -27,8 +32,20 @@ function App() {
   }, []);
 
   return (
-    <div>
-      <Home/>
+    <div className="">
+      <BrowserRouter>
+        <Routes>
+          <Route path="/"
+            element={<Home />} />
+          <Route path="/contact"
+            element={<Contactus />} />
+          <Route path="/about"
+            element={<Aboutus />} />
+          <Route path="/service"
+            element={<Service />} />
+        </Routes>
+      </BrowserRouter>
+
     </div>
   );
 }
