@@ -1,7 +1,32 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
 
 function Header() {
+  const navigate = useNavigate();
+ 
+  const reloadHomePage = () => {
+    navigate("/");
+    window.scrollTo(0,0);
+    window.location.reload();
+  }
+
+  const reloadAboutPage = () => {
+    navigate("/about");
+    window.scrollTo(0,0);
+    window.location.reload();
+  }
+
+  const reloadServicePage = () => {
+    navigate("/service");
+    window.scrollTo(0,0);
+    window.location.reload();
+  }
+
+  const reloadContactPage = () => {
+    navigate("/contact");
+    window.scrollTo(0,0);
+    window.location.reload();
+  }
   return (
     <div>
       <div className="site-header dsn-container dsn-load-animate">
@@ -30,37 +55,32 @@ function Header() {
             <div className="menu-cover-title">Menu</div>
             <ul className="extend-container p-relative d-flex flex-column justify-content-center h-100">
               <li>
-                <a href="about.html">
-                  <span className="dsn-title-menu"><Link to={"/"}>Home</Link></span>
-                  <span className="dsn-meta-menu">01</span>
+                <a onClick={reloadHomePage}>
+                  <span className="dsn-title-menu">Home</span>
                   <span className="dsn-bg-arrow" />
                 </a>
               </li>
               <li>
-                <a href="about.html">
-                  <span className="dsn-title-menu"><Link to={"/about"}>About</Link></span>
-                  <span className="dsn-meta-menu">02</span>
+                <a onClick={reloadAboutPage}>
+                  <span className="dsn-title-menu">About</span>
                   <span className="dsn-bg-arrow" />
                 </a>
               </li>
               <li>
-                <a href="services.html">
-                  <span className="dsn-title-menu"><Link to={"/service"}>services</Link></span>
-                  <span className="dsn-meta-menu">03</span>
+                <a onClick={reloadServicePage}>
+                  <span className="dsn-title-menu">Services</span>
                   <span className="dsn-bg-arrow" />
                 </a>
               </li>
               <li >
-                <a href="#" className="user-no-selection">
+                <a className="user-no-selection">
                   <span className="dsn-title-menu">Portfolio</span>
-                  <span className="dsn-meta-menu">04</span>
                   <span className="dsn-bg-arrow" />
                 </a>
               </li>
               <li>
-                <a href="contact.html" className="user-no-selection">
-                  <span className="dsn-title-menu"><Link to={"/contact"}>Contact</Link></span>
-                  <span className="dsn-meta-menu">05</span>
+                <a onClick={reloadContactPage}>
+                  <span className="dsn-title-menu">Contact</span>
                   <span className="dsn-bg-arrow" />
                 </a>
               </li>

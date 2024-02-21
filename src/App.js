@@ -1,4 +1,5 @@
 import React, { useEffect, ReactDOM } from 'react'
+import { gsap } from "gsap";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './Component/Mainpage/Home'
 import Contactus from './Component/Contact/Contactus';
