@@ -36,17 +36,17 @@ function Home() {
                       <div className="slide-content p-absolute ">
                         <div className="content p-relative">
                           <div className="metas d-inline-block mb-20">
-                            <span>Product</span>
-                            <span>voice</span>
+                            {/* <span>Product</span>
+                            <span>voice</span> */}
                           </div>
                           <div className="d-block" />
                           <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">Maybe speaker </a>
+                            <a className="effect-ajax" data-dsn-ajax="slider">We Make It possible </a>
                           </h1>
                           <hr className="mt-20" />
-                          <p className="max-w570 mt-20 description ">Vin tries to reflect Diesel’s
+                          {/* <p className="max-w570 mt-20 description ">Vin tries to reflect Diesel’s
                             vision
-                            and combines</p>
+                            and combines</p> */}
                         </div>
                       </div>
                     </div>
@@ -57,92 +57,15 @@ function Home() {
                       <div className="slide-content p-absolute  ">
                         <div className="content p-relative">
                           <div className="metas d-inline-block mb-20">
-                            <span>pen</span>
+                            {/* <span>pen</span> */}
                           </div>
                           <div className="d-block" />
                           <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">Yaren collection</a>
+                            <a className="effect-ajax" data-dsn-ajax="slider">BZ Technologies: Powering Your Digital Future</a>
                           </h1>
                           <hr className="mt-20" />
-                          <p className="max-w570 mt-20 description ">symbols through which express
-                            themselves</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="slide-item swiper-slide over-hidden">
-                      <div className="image-bg cover-bg w-100 h-100 " data-overlay={6} data-swiper-parallax="50%" data-swiper-parallax-scale="1.1">
-                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project3/1.jpg" alt="" />
-                      </div>
-                      <div className="slide-content p-absolute  ">
-                        <div className="content p-relative">
-                          <div className="metas d-inline-block mb-20">
-                            <span>induction</span>
-                          </div>
-                          <div className="d-block" />
-                          <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">Huggl Power Pack</a>
-                          </h1>
-                          <hr className="mt-20" />
-                          <p className="max-w570 mt-20 description ">Huggl is an induction
-                            charging.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="slide-item swiper-slide over-hidden">
-                      <div className="image-bg cover-bg w-100 h-100 " data-overlay={2} data-swiper-parallax="50%" data-swiper-parallax-scale="1.1">
-                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project4/1.jpg" alt="" />
-                      </div>
-                      <div className="slide-content p-absolute  ">
-                        <div className="content p-relative">
-                          <div className="metas d-inline-block mb-20">
-                            <span>Architecture</span>
-                          </div>
-                          <div className="d-block" />
-                          <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">Principal Garden</a>
-                          </h1>
-                          <hr className="mt-20" />
-                          <p className="max-w570 mt-20 description ">Huggl is an induction
-                            charging.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="slide-item swiper-slide over-hidden">
-                      <div className="image-bg cover-bg w-100 h-100 " data-overlay={5} data-swiper-parallax="50%" data-swiper-parallax-scale="1.1">
-                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project5/1.jpg" alt="" />
-                      </div>
-                      <div className="slide-content p-absolute  ">
-                        <div className="content p-relative">
-                          <div className="metas d-inline-block mb-20">
-                            <span>Photography</span> <span>car</span>
-                          </div>
-                          <div className="d-block" />
-                          <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">Small Silver Car</a>
-                          </h1>
-                          <hr className="mt-20" />
-                          <p className="max-w570 mt-20 description ">Huggl is an induction
-                            charging.</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="slide-item swiper-slide over-hidden">
-                      <div className="image-bg cover-bg w-100 h-100 " data-overlay={4} data-swiper-parallax="50%" data-swiper-parallax-scale="1.1">
-                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project6/1.jpg" alt="" />
-                      </div>
-                      <div className="slide-content p-absolute  ">
-                        <div className="content p-relative">
-                          <div className="metas d-inline-block mb-20">
-                            <span>Photography</span>
-                          </div>
-                          <div className="d-block" />
-                          <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">Lengshuikeng</a>
-                          </h1>
-                          <hr className="mt-20" />
-                          <p className="max-w570 mt-20 description ">Sometimes, we need to check
-                            the
-                            time,</p>
+                          {/* <p className="max-w570 mt-20 description ">symbols through which express
+                            themselves</p> */}
                         </div>
                       </div>
                     </div>
@@ -154,31 +77,13 @@ function Home() {
               </div>
             </div>
             <div className="control-nav dsn-load-animate p-absolute w-100 d-flex justify-content-end  dsn-container v-dark-head">
-              <div className="prev-container">
-                <div className="container-inner">
-                  <div className="triangle" />
-                  <svg className="circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-                    <g className="circle-wrap" fill="none" strokeWidth={1} strokeLinejoin="round" strokeMiterlimit={10}>
-                      <circle cx={12} cy={12} r="10.5" />
-                    </g>
-                  </svg>
-                </div>
-              </div>
-              <div className="slider-counter d-flex align-items-center">
-                <span className="slider-current-index">01</span>
-                <span className="slider-counter-delimiter" />
-                <span className="slider-total-index">05</span>
-              </div>
-              <div className="next-container">
-                <div className="container-inner">
-                  <div className="triangle" />
-                  <svg className="circle" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24">
-                    <g className="circle-wrap" fill="none" strokeWidth={1} strokeLinejoin="round" strokeMiterlimit={10}>
-                      <circle cx={12} cy={12} r="10.5" />
-                    </g>
-                  </svg>
-                </div>
-              </div>
+              
+              {/* <div className="slider-counter d-flex align-items-center"> */}
+              {/* <span className="slider-current-index">01</span> */}
+              {/* <span className="slider-counter-delimiter" /> */}
+              {/* <span className="slider-total-index">05</span> */}
+              {/* </div>/0 */}
+              
             </div>
           </header>
           {/*introduction page end */}
@@ -195,24 +100,23 @@ function Home() {
                         <div className="box-info pt-60 pb-60">
                           <div className="title-move z-index-1 " data-dsn-grid="move-section" data-dsn-move={-70} data-dsn-duration="100%" data-dsn-opacity="1.2" data-dsn-responsive="tablet">
                             <h2 className="section-title mb-30 dsn-text-shadow text-transform-upper">
-                              Hello We are , <br /> Dsign Grid
+                              Hello We are , <br /> BZ TECH
                             </h2>
                           </div>
-                          <h6 className="mt-80 pb-30 mb-30 border-bottom title-block">We’re a creative agency
-                            with
-                            an expertise in make custom
-                            websites.
+                          <h6 className="mt-80 pb-30 mb-30 border-bottom title-block">At BZ Tech, we are more than just a company -
+                           we are a force that ignites growth and fuels success.
                           </h6>
                           <p className="max-w570 dsn-up mb-10 ">
-                            Founded in 2000, Dsn Grid has become one of the best Digital Agency in
-                            ThemeForest.
+                          Founded in 2022, BZ Tech has become one of the best providers of software development, digital marketing, crafting bespoke websites, 
+                          developing custom SaaS products, creating customized e-commerce platforms, 
+                          and harnessing the power of tailored software solutions to elevate your business with our expert development team.
                           </p>
                           <p className="max-w570 dsn-up mb-30 ">
-                            Blue money going forward, but deploy to production. C-suite. First-order
-                            optimal
-                            strategies build on a culture of contribution and inclusion so those options
+                          As a forward-thinking organization, we understand the importance of 
+                          staying ahead in today's rapidly evolving business landscape. That's why we specialize in providing 
+                          cutting-edge solutions that empower businesses to soar to new heights.
                           </p>
-                          <div className="d-flex flex-column align-items-start ">
+                          {/* <div className="d-flex flex-column align-items-start ">
                             <div className="section-title">
                               <h6 className="dsn-up line-shap line-shap-after">
                                 Hisham Megahed
@@ -221,19 +125,19 @@ function Home() {
                                 Digital Artisit
                               </p>
                             </div>
-                          </div>
+                          </div> */}
                           <div className="box-awards d-grid grid-md-2  mt-30">
                             <div className="box-awards-item has-border dsn-up ">
                               <h5 className="number background-section p-10">
-                                <span className="has-animate-number title">37</span>
-                                <span className="sm-title-block">Business
-                                  <br /> partner</span>
+                                <span className="has-animate-number title">4+</span>
+                                <span className="sm-title-block">Years
+                                  <br />in Industries</span>
                               </h5>
                             </div>
                             <div className="box-awards-item has-border dsn-up">
                               <h5 className="number background-section p-10">
-                                <span className="has-animate-number title">19</span>
-                                <span className="sm-title-block">SUTISFIED <br /> CUSTOMERS</span>
+                                <span className="has-animate-number title">60+</span>
+                                <span className="sm-title-block">Project <br />Completed</span>
                               </h5>
                             </div>
                           </div>
@@ -252,7 +156,7 @@ function Home() {
                           </div>
                           <div className="box-awards-item has-border big-number p-absolute left-0 bottom-0 ml-40 mb-40 dsn-up v-dark-head">
                             <h5 className="number  p-10">
-                              <span className="has-animate-number title">25</span>
+                              <span className="has-animate-number title">4</span>
                               <span className="sm-title-block d-block">
                                 YEARS OF <br /> DIGITAL EXPERIENCE
                               </span>
@@ -272,8 +176,8 @@ function Home() {
                         Our Services
                       </span>
                     </p>
-                    <h2 className="section-title  title-cap">We are delivering beautiful <br /> digital products for
-                      you.
+                    <h2 className="section-title  title-cap">Crafting exquisite digital solutions for <br/>
+                     software, SaaS, and eCommerce needs.
                     </h2>
                   </div>
                   <div className="container">
@@ -301,9 +205,7 @@ function Home() {
                             </div>
                             <div className="service-description">
                               <h4 className="title-block mb-15">Creative Idea</h4>
-                              <p>Te qui alii inermis vivendum, an decore libris eum. Te mel dico alia
-                                wisi, cu
-                                vitae noluisse phaedrum.</p>
+                              <p>With BZ Tech, expect solutions that surpass expectations by pushing boundaries</p>
                             </div>
                           </div>
                         </div>
@@ -327,10 +229,8 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">High Creative Minds</h4>
-                              <p>Te qui alii inermis vivendum, an decore libris eum. Te mel dico alia
-                                wisi, cu
-                                vitae noluisse phaedrum.</p>
+                              <h4 className="title-block mb-15">Data Security & Management</h4>
+                              <p>Data security secures your information, while data management ensures it's organized, accessible, and protected throughout its lifecycle.</p>
                             </div>
                           </div>
                         </div>
@@ -353,8 +253,7 @@ function Home() {
                             </div>
                             <div className="service-description">
                               <h4 className="title-block mb-15">Business Planning</h4>
-                              <p>We develop the relationships that underpin the next phase in your
-                                organisation’s growth. We do this by discerning the people.</p>
+                              <p>We drive success with strategic planning and end-to-end project execution.</p>
                             </div>
                           </div>
                         </div>
@@ -383,8 +282,7 @@ function Home() {
                             </div>
                             <div className="service-description">
                               <h4 className="title-block mb-15">Mobile App Design</h4>
-                              <p>Te qui alii inermis vivendum, an decore libris eum. Te mel dico alia
-                                wisi, cu vitae noluisse phaedrum.</p>
+                              <p>We seamlessly blend design aesthetics and intuitive interfaces to elevate brands.</p>
                             </div>
                           </div>
                         </div>
@@ -412,8 +310,7 @@ function Home() {
                             </div>
                             <div className="service-description">
                               <h4 className="title-block mb-15">Web Development</h4>
-                              <p>For 10+ years now, we’ve mastered the top web technologies to deliver
-                                projects that have raked in investments.</p>
+                              <p>We design and build awesome websites that people love to use.</p>
                             </div>
                           </div>
                         </div>
@@ -446,8 +343,7 @@ function Home() {
                             </div>
                             <div className="service-description">
                               <h4 className="title-block mb-15">Program management</h4>
-                              <p>The development of your next business plan will be executed by a
-                                brilliant team who will indicate your grand success.</p>
+                              <p>Rest assured with our meticulous debugging and auditing services for optimized performance.</p>
                             </div>
                           </div>
                         </div>
@@ -464,18 +360,14 @@ function Home() {
                   <div className="pro-text background-section box-padding" data-dsn-grid="move-section" data-dsn-responsive="tablet">
                     <div className="mb-30 d-flex text-left flex-column align-items-start">
                       <p className="sub-heading line-shap line-shap-after mb-15">
-                        <span className="line-bg-right">Build perfect websites</span>
+                        <span className="line-bg-right">Build Responsive websites</span>
                       </p>
-                      <h2 className="section-title">Unlimited power</h2>
+                      <h2 className="section-title">Our Product</h2>
                     </div>
                     <p className="mb-10">
-                      Most of our writings have centered on implementing strategies for business
-                      units, with their unique
+                    From sleek and responsive designs to seamless user experiences, we craft websites that captivate audiences and drive results. 
                     </p>
-                    <p>
-                      geeza arse it’s your round grub sloshed burke, my good sir chancer he legged it he lost
-                      his
-                      bottle pear shaped bugger all mate</p>
+                    <p>Whether you need a simple landing page or a complex e-commerce platform, our expert team delivers tailor-made solutions that elevate your online presence.</p>
                     <a href="#0" className="mt-30 dsn-button image-zoom" data-dsn="parallax">
                       <span className="dsn-border border-color-reverse-color" />
                       More Projects <span>⟶</span>
