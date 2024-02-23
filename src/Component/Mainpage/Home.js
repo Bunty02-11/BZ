@@ -31,7 +31,7 @@ function Home() {
                   <div className="swiper-wrapper">
                     <div className="slide-item swiper-slide over-hidden">
                       <div className="image-bg cover-bg w-100 h-100 " data-overlay={6} data-swiper-parallax="50%" data-swiper-parallax-scale="1.1">
-                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project1/1.jpg" alt="" />
+                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/Real/12.jpg" alt="" />
                       </div>
                       <div className="slide-content p-absolute ">
                         <div className="content p-relative">
@@ -41,7 +41,7 @@ function Home() {
                           </div>
                           <div className="d-block" />
                           <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">We Make It possible </a>
+                            <a className="effect-ajax" data-dsn-ajax="slider">  We Make It possible </a>
                           </h1>
                           <hr className="mt-20" />
                           {/* <p className="max-w570 mt-20 description ">Vin tries to reflect Diesel’s
@@ -52,7 +52,7 @@ function Home() {
                     </div>
                     <div className="slide-item swiper-slide over-hidden">
                       <div className="image-bg cover-bg w-100 h-100 " data-overlay={6} data-swiper-parallax="50%" data-swiper-parallax-scale="1.1">
-                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project2/1.jpg" alt="" />
+                        <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/Real/14.jpg" alt="" />
                       </div>
                       <div className="slide-content p-absolute  ">
                         <div className="content p-relative">
@@ -61,7 +61,7 @@ function Home() {
                           </div>
                           <div className="d-block" />
                           <h1 className="title user-no-selection d-inline-block ">
-                            <a className="effect-ajax" data-dsn-ajax="slider">BZ Technologies: Powering Your Digital Future</a>
+                            <a className="effect-ajax" data-dsn-ajax="slider">  Powering Your Digital Future</a>
                           </h1>
                           <hr className="mt-20" />
                           {/* <p className="max-w570 mt-20 description ">symbols through which express
@@ -77,13 +77,13 @@ function Home() {
               </div>
             </div>
             <div className="control-nav dsn-load-animate p-absolute w-100 d-flex justify-content-end  dsn-container v-dark-head">
-              
+
               {/* <div className="slider-counter d-flex align-items-center"> */}
               {/* <span className="slider-current-index">01</span> */}
               {/* <span className="slider-counter-delimiter" /> */}
               {/* <span className="slider-total-index">05</span> */}
               {/* </div>/0 */}
-              
+
             </div>
           </header>
           {/*introduction page end */}
@@ -104,17 +104,17 @@ function Home() {
                             </h2>
                           </div>
                           <h6 className="mt-80 pb-30 mb-30 border-bottom title-block">At BZ Tech, we are more than just a company -
-                           we are a force that ignites growth and fuels success.
+                            we are a force that ignites growth and fuels success.
                           </h6>
                           <p className="max-w570 dsn-up mb-10 ">
-                          Founded in 2022, BZ Tech has become one of the best providers of software development, digital marketing, crafting bespoke websites, 
-                          developing custom SaaS products, creating customized e-commerce platforms, 
-                          and harnessing the power of tailored software solutions to elevate your business with our expert development team.
+                            Founded in 2022, BZ Tech has become one of the best providers of software development, digital marketing, crafting bespoke websites,
+                            developing custom SaaS products, creating customized e-commerce platforms,
+                            and harnessing the power of tailored software solutions to elevate your business with our expert development team.
                           </p>
                           <p className="max-w570 dsn-up mb-30 ">
-                          As a forward-thinking organization, we understand the importance of 
-                          staying ahead in today's rapidly evolving business landscape. That's why we specialize in providing 
-                          cutting-edge solutions that empower businesses to soar to new heights.
+                            As a forward-thinking organization, we understand the importance of
+                            staying ahead in today's rapidly evolving business landscape. That's why we specialize in providing
+                            cutting-edge solutions that empower businesses to soar to new heights.
                           </p>
                           {/* <div className="d-flex flex-column align-items-start ">
                             <div className="section-title">
@@ -151,14 +151,14 @@ function Home() {
                           <div className="line line-right" />
                           <div className="img-box h-100">
                             <div className="img-container h-100 before-z-index" data-dsn-grid="move-up" data-overlay={3}>
-                              <img className="cover-bg-img " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/about-intro.jpg" alt="" />
+                              <img className="cover-bg-img " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/Real/11.jpg" alt="" />
                             </div>
                           </div>
                           <div className="box-awards-item has-border big-number p-absolute left-0 bottom-0 ml-40 mb-40 dsn-up v-dark-head">
                             <h5 className="number  p-10">
                               <span className="has-animate-number title">4</span>
                               <span className="sm-title-block d-block">
-                                YEARS OF <br /> DIGITAL EXPERIENCE
+                                YEARS OF <br /> EXPERIENCE
                               </span>
                             </h5>
                           </div>
@@ -176,8 +176,8 @@ function Home() {
                         Our Services
                       </span>
                     </p>
-                    <h2 className="section-title  title-cap">Crafting exquisite digital solutions for <br/>
-                     software, SaaS, and eCommerce needs.
+                    <h2 className="section-title  title-cap">Crafting exquisite digital solutions for <br />
+                      software, SaaS, and eCommerce needs.
                     </h2>
                   </div>
                   <div className="container">
@@ -204,8 +204,9 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">Creative Idea</h4>
-                              <p>With BZ Tech, expect solutions that surpass expectations by pushing boundaries</p>
+                              <h4 className="title-block mb-15">Digital Marketing</h4>
+                              <p>Digital marketing transformed business-customer connections through online platforms,
+                                engaging and converting audiences in today's digital environment.</p>
                             </div>
                           </div>
                         </div>
@@ -229,8 +230,9 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">Data Security & Management</h4>
-                              <p>Data security secures your information, while data management ensures it's organized, accessible, and protected throughout its lifecycle.</p>
+                              <h4 className="title-block mb-15">Web Development</h4>
+                              <p>We create advanced web solutions with latest tech for tailored,
+                                user-friendly websites meeting unique business needs.</p>
                             </div>
                           </div>
                         </div>
@@ -252,8 +254,8 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">Business Planning</h4>
-                              <p>We drive success with strategic planning and end-to-end project execution.</p>
+                              <h4 className="title-block mb-15">Mobile App Design</h4>
+                              <p>We seamlessly blend design aesthetics and intuitive interfaces to elevate brands.</p>
                             </div>
                           </div>
                         </div>
@@ -281,8 +283,8 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">Mobile App Design</h4>
-                              <p>We seamlessly blend design aesthetics and intuitive interfaces to elevate brands.</p>
+                              <h4 className="title-block mb-15">SaaS Product</h4>
+                              <p>We offers innovative SaaS solutions for streamlined operations and cutting-edge ecommerce platforms for seamless online retail experiences</p>
                             </div>
                           </div>
                         </div>
@@ -309,8 +311,8 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">Web Development</h4>
-                              <p>We design and build awesome websites that people love to use.</p>
+                              <h4 className="title-block mb-15">Data Security & Management</h4>
+                              <p>Safeguarding data, ensuring integrity, and enabling accessibility for efficient management.</p>
                             </div>
                           </div>
                         </div>
@@ -342,7 +344,7 @@ function Home() {
                               </svg>
                             </div>
                             <div className="service-description">
-                              <h4 className="title-block mb-15">Program management</h4>
+                              <h4 className="title-block mb-15">Application Audit & Debugging</h4>
                               <p>Rest assured with our meticulous debugging and auditing services for optimized performance.</p>
                             </div>
                           </div>
@@ -353,34 +355,36 @@ function Home() {
                 </section>
                 {/* ========== End Service Section ========== */}
                 {/* ==========  box description move  ========== */}
-                <div className="box-seat box-seat-parallax section-margin">
-                  <div className="inner-img h-100-v" data-dsn-grid="move-up" data-overlay={2}>
-                    <img className="transform-3d has-bigger-scale" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/project3/2.jpg" alt="" />
-                  </div>
-                  <div className="pro-text background-section box-padding" data-dsn-grid="move-section" data-dsn-responsive="tablet">
-                    <div className="mb-30 d-flex text-left flex-column align-items-start">
-                      <p className="sub-heading line-shap line-shap-after mb-15">
-                        <span className="line-bg-right">Build Responsive websites</span>
-                      </p>
-                      <h2 className="section-title">Our Product</h2>
+                <section>
+                  <div className="box-seat box-seat-parallax section-margin">
+                    <div className="inner-img h-100-v" data-dsn-grid="move-up" data-overlay={2}>
+                      <img className="transform-3d has-bigger-scale" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/Real/10.jpg" alt="" />
                     </div>
-                    <p className="mb-10">
-                    From sleek and responsive designs to seamless user experiences, we craft websites that captivate audiences and drive results. 
-                    </p>
-                    <p>Whether you need a simple landing page or a complex e-commerce platform, our expert team delivers tailor-made solutions that elevate your online presence.</p>
-                    <a href="#0" className="mt-30 dsn-button image-zoom" data-dsn="parallax">
+                    <div className="pro-text background-section box-padding" data-dsn-grid="move-section" data-dsn-responsive="tablet">
+                      <div className="mb-30 d-flex text-left flex-column align-items-start">
+                        <p className="sub-heading line-shap line-shap-after mb-15">
+                          <span className="line-bg-right">Build Responsive websites</span>
+                        </p>
+                        <h2 className="section-title">Our Product</h2>
+                      </div>
+                      <p className="mb-10">
+                        From sleek and responsive designs to seamless user experiences, we craft websites that captivate audiences and drive results.
+                      </p>
+                      <p>Whether you need a simple landing page or a complex e-commerce platform, our expert team delivers tailor-made solutions that elevate your online presence.</p>
+                      {/* <a href="#0" className="mt-30 dsn-button image-zoom" data-dsn="parallax">
                       <span className="dsn-border border-color-reverse-color" />
                       More Projects <span>⟶</span>
-                    </a>
-                    <p className="sm-p mt-15 theme-color">
-                      NOTE : Some details are very important.
-                    </p>
+                    </a> */}
+                      <p className="sm-p mt-15 theme-color">
+                        NOTE : Some details are very important.
+                      </p>
+                    </div>
                   </div>
-                </div>
+                </section>
                 {/* ========== End  box description move ========== */}
                 {/* ========== Work Section ========== */}
                 <section className="work-section p-relative section-margin dsn-swiper over-hidden" data-dsn-title="our Portfolio" data-dsn-option="{&quot;slidesPerView&quot;:1.5,&quot;spaceBetween&quot;:50}">
-                  <div className="container mb-70 d-flex text-center flex-column align-items-center">
+                  {/* <div className="container mb-70 d-flex text-center flex-column align-items-center">
                     <p className="sub-heading line-shap line-shap-before mb-15">
                       <span className="line-bg-right">
                         Our Works
@@ -389,8 +393,8 @@ function Home() {
                     <h2 className="section-title  title-cap">
                       Creative Portfolio <br />Designs
                     </h2>
-                  </div>
-                  <div className="swiper-container">
+                  </div> */}
+                  {/* <div className="swiper-container">
                     <div className="swiper-wrapper v-dark-head">
                       <div className="swiper-slide over-hidden work-item">
                         <div className="box-img p-relative over-hidden before-z-index" data-overlay={5} data-swiper-parallax-scale="0.85">
@@ -504,7 +508,7 @@ function Home() {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </section>
                 {/* ========== End Work Section ========== */}
                 {/* ========== testimonial Section ========== */}
@@ -648,7 +652,7 @@ function Home() {
                       <div className="col-lg-6  dsn-z-index-2 pr-0 mb-lg-section">
                         <div className="box-im h-100 p-absolute">
                           <div className="img-container h-100 before-z-index" data-dsn-grid="move-up" data-overlay={3}>
-                            <img className="cover-bg-img " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/plan-project.jpg" alt="" />
+                            <img className="cover-bg-img " src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/project/Real/16.jpg" alt="" />
                           </div>
                         </div>
                       </div>
@@ -660,49 +664,22 @@ function Home() {
                             </div>
                             <div className="mb-50 d-flex text-left flex-column align-items-start">
                               <p className="sub-heading line-shap line-shap-after mb-15">
-                                <span className="line-bg-right">OUR PURPOSE</span>
+                                <span className="line-bg-right">OUR VISION</span>
                               </p>
                               <h2 className="section-title text-transform-upper">We Plan Your Project</h2>
                             </div>
-                            <div className="dsn-accordion accordion">
-                              <div className="accordion__wrapper">
-                                <div className="accordion__item dsn-up">
-                                  <div className="accordion__question expanded d-flex align-items-center p-relative">
-                                    <span className="number">1</span>
-                                    <h4 className="sm-title-block">Extensive Employment</h4>
-                                  </div>
-                                  <div className="accordion__answer active">
-                                    <p>Quisque placerat vitae lacus ut sceleris queusce luctus
-                                      odio
-                                      ac nibh luctus, in porttitor.</p>
-                                  </div>
-                                </div>
-                                <div className="accordion__item dsn-up">
-                                  <div className="accordion__question d-flex align-items-center p-relative">
-                                    <span className="number">2</span>
-                                    <h4 className="sm-title-block">Dedicated Staff</h4>
-                                  </div>
-                                  <div className="accordion__answer">
-                                    <p>Quisque placerat vitae lacus ut sceleris queusce luctus
-                                      odio
-                                      ac nibh luctus, in porttitor. </p>
-                                  </div>
-                                </div>
-                                <div className="accordion__item dsn-up">
-                                  <div className="accordion__question d-flex align-items-center p-relative">
-                                    <span className="number">3</span>
-                                    <h4 className="sm-title-block">User Experience</h4>
-                                  </div>
-                                  <div className="accordion__answer">
-                                    <p>Cepteur sint occaecat cupidatat proident, taken
-                                      possession of my
-                                      entire soul, like these sweet mornings of spring
-                                      which I enjoy
-                                      with my whole.</p>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
+                            <p className="mb-10">
+                              <h4>Empowering Success</h4>
+                              Empowering businesses with innovative solutions, expert guidance, enabling growth, and thriving in dynamic markets.
+                            </p>
+                            <p className="mb-10">
+                              <h4>Fostering Collaboration</h4>
+                              Fostering effective collaboration: teamwork, trust, communication flourish, drawing on diverse expertise for outstanding outcomes.
+                            </p>
+                            <p className="mb-10">
+                              <h4>Igniting Innovation</h4>
+                              Core: innovation drives continuous improvement, disrupts, inspires change, forward-thinking approach, igniting innovation in clients' organizations.
+                            </p>
                           </div>
                         </div>
                       </div>
@@ -712,7 +689,7 @@ function Home() {
                 {/* ========== End box vertical Section ========== */}
                 {/* ========== blog Section ========== */}
                 <section className="our-blog section-margin p-relative dsn-swiper" data-dsn-animate="section" data-dsn-option="{&quot;slidesPerView&quot;:1.5  }" data-dsn-title="Lasts post">
-                  <div className="container mb-70 d-flex text-center flex-column align-items-center">
+                  {/* <div className="container mb-70 d-flex text-center flex-column align-items-center">
                     <p className="sub-heading line-shap line-shap-before mb-15">
                       <span className="line-bg-right">
                         Lasts post
@@ -721,8 +698,8 @@ function Home() {
                     <h2 className="section-title  title-cap">
                       Latest And Greatest <br />Post
                     </h2>
-                  </div>
-                  <div className="dsn-container">
+                  </div> */}
+                  {/* <div className="dsn-container">
                     <div className="swiper-container">
                       <div className="swiper-wrapper">
                         <div className="swiper-slide blog-classic-item">
@@ -866,12 +843,12 @@ function Home() {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </section>
                 {/* ========== End blog Section ========== */}
                 {/* ========== team Section ========== */}
                 <section className="team section-margin p-relative" data-dsn-animate="section" data-dsn-title="our team">
-                  <div className="container mb-70 d-flex text-center flex-column  align-items-center">
+                  {/* <div className="container mb-70 d-flex text-center flex-column  align-items-center">
                     <p className="sub-heading line-shap line-shap-before mb-15">
                       <span className="line-bg-right">
                         Our Team
@@ -1004,7 +981,7 @@ function Home() {
                         </div>
                       </div>
                     </div>
-                  </div>
+                  </div> */}
                 </section>
                 {/* ========== End team Section ========== */}
                 {/* ========== End brand-client Section ========== */}
@@ -1016,7 +993,7 @@ function Home() {
                       </span>
                     </p>
                     <h2 className="section-title  title-cap">
-                      Your successful, our <br />reputation
+                      Your Success, our <br />reputation
                     </h2>
                   </div>
                   <div className="container">
@@ -1053,12 +1030,12 @@ function Home() {
                       </div>
                       <div className="logo-box">
                         <div className="logo-box-inner">
-                          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/1.png" alt="" />
+                          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/7.png" alt="" />
                         </div>
                       </div>
                       <div className="logo-box">
                         <div className="logo-box-inner">
-                          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/3.png" alt="" />
+                          <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/8.png" alt="" />
                         </div>
                       </div>
                     </div>

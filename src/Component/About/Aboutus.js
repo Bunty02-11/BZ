@@ -32,10 +32,10 @@ function Aboutus() {
               <div className="dsn-container">
                 <div className="content-hero p-relative d-flex flex-column h-100 dsn-hero-parallax-title">
                   <p className="subtitle p-relative line-shap  line-shap-after">
-                    <span className="pl-10 pr-10 background-main dsn-load-animate">DESIGN STUDIO</span>
+                    <span className="pl-10 pr-10 background-main dsn-load-animate">BZ Tech</span>
                   </p>
                   <h1 className="title mt-30 dsn-load-animate text-transform-upper">
-                    We Digital Creative <br /> Agency
+                    Inovation Begins here
                   </h1>
                 </div>
               </div>
@@ -44,7 +44,7 @@ function Aboutus() {
             <div className="wrapper">
               <div className="image-head p-relative">
                 <div className="before-z-index" data-dsn-grid="move-up" data-overlay={5}>
-                  <img className="cover-bg-img has-bigger-scale" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/about/5.jpg" alt="" />
+                  <img className="cover-bg-img has-bigger-scale" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/about/5.jpg"  alt="" />
                 </div>
               </div>
               {/* ========== About Section ========== */}
@@ -61,21 +61,16 @@ function Aboutus() {
                     <div className="col-lg-6">
                       <div className="box-left">
                         <div className="section-title">
-                          <h4>Keep Your Business Safe &amp; Ensure High
-                            Availability</h4>
+                          <h4>Design Strategy, Web and Mobile App Design,Front-end Development &amp; Back-end Development
+                          </h4>
                         </div>
                       </div>
                     </div>
                     <div className="col-lg-6">
                       <div className="box-right">
-                        <p className="max-w570 dsn-up mb-15 ">A business consulting agency is involved in
-                          the planning, implementation, and education of businesses. We work directly
-                          with business owners on developing a business plan, identifying marketing
-                          needs and developing the necessary skills for business ownership.</p>
-                        <p className="max-w570 dsn-up">
-                          but deploy to production. C-suite. First-order optimal
-                          strategies build on a culture of contribution and inclusion so those
-                          options
+                        <p className="max-w570 dsn-up mb-15 ">BZ Tech offers comprehensive design, development,
+                          and business strategy services while prioritizing social responsibility,
+                          guiding businesses towards success in a competitive landscape.
                         </p>
                       </div>
                     </div>
@@ -105,10 +100,10 @@ function Aboutus() {
                 <div className="container">
                   <div className="d-grid grid-md-2  over-hidden">
                     <a href="assets/img/help-project.jpg" className="p-relative over-hidden d-flex h-v-60">
-                      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/help-project.jpg" data-dsn-srcset="assets/img/help-project.jpg 1800w,assets/img/help-project-sm.jpg 768w" alt="" className="cover-bg-img" />
+                      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/help-project.jpg" data-dsn-srcset="assets/img/about/2.jpg 1800w,assets/img/help-project-sm.jpg 768w" alt="" className="cover-bg-img" />
                     </a>
                     <a href="assets/img/plan-project.jpg" className="p-relative over-hidden d-flex h-v-60">
-                      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/plan-project-sm.jpg" data-dsn-srcset="assets/img/plan-project.jpg 1800w,assets/img/plan-project-sm.jpg 768w" alt="" className="cover-bg-img" />
+                      <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/plan-project-sm.jpg" data-dsn-srcset="assets/img/about/3.jpg 1800w,assets/img/plan-project-sm.jpg 768w" alt="" className="cover-bg-img" />
                     </a>
                   </div>
                 </div>
@@ -121,7 +116,8 @@ function Aboutus() {
                       Our Services
                     </span>
                   </p>
-                  <h2 className="section-title">We are delivering beautiful <br /> digital products for you.</h2>
+                  <h2 className="section-title">Crafting exquisite digital solutions for
+                    software, SaaS, and eCommerce needs.</h2>
                 </div>
                 <div className="container">
                   <div className="service-lest-item p-relative d-flex border-bottom">
@@ -141,12 +137,9 @@ function Aboutus() {
                       </svg>
                     </div>
                     <div className="service-description">
-                      <h4 className="title-block mb-15">Creative Idea</h4>
-                      <p className="max-w750">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Suspendisse quis sagittis nunc, sed pulvinar quam. In hac habitasse platea
-                        dictumst. Etiam dignissim arcu in massa hendrerit venenatis. Donec vel justo
-                        pulvinar, dictum nisi eget, faucibus elit. Sed nisi sem, ornare vitae urna in,
-                        laoreet fringilla purus.</p>
+                      <h4 className="title-block mb-15">Digital Marketing</h4>
+                      <p className="max-w750">Digital marketing transformed business-customer connections through online platforms, engaging and
+                        converting audiences in today's digital environment.</p>
                     </div>
                   </div>
                   <div className="service-lest-item p-relative d-flex border-bottom">
@@ -163,12 +156,9 @@ function Aboutus() {
                       </svg>
                     </div>
                     <div className="service-description">
-                      <h4 className="title-block mb-15">High Creative Minds</h4>
-                      <p className="max-w750">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Suspendisse quis sagittis nunc, sed pulvinar quam. In hac habitasse platea
-                        dictumst. Etiam dignissim arcu in massa hendrerit venenatis. Donec vel justo
-                        pulvinar, dictum nisi eget, faucibus elit. Sed nisi sem, ornare vitae urna in,
-                        laoreet fringilla purus.</p>
+                      <h4 className="title-block mb-15">Web Development</h4>
+                      <p className="max-w750">We create advanced web solutions with latest tech for tailored,
+                        user-friendly websites meeting unique business needs.</p>
                     </div>
                   </div>
                   <div className="service-lest-item p-relative d-flex border-bottom">
@@ -183,19 +173,87 @@ function Aboutus() {
                       </svg>
                     </div>
                     <div className="service-description">
-                      <h4 className="title-block mb-15">Business Planning</h4>
-                      <p className="max-w750">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Suspendisse quis sagittis nunc, sed pulvinar quam. In hac habitasse platea
-                        dictumst. Etiam dignissim arcu in massa hendrerit venenatis. Donec vel justo
-                        pulvinar, dictum nisi eget, faucibus elit. Sed nisi sem, ornare vitae urna in,
-                        laoreet fringilla purus.</p>
+                      <h4 className="title-block mb-15">Mobile App Design</h4>
+                      <p className="max-w750">We seamlessly blend design
+                        aesthetics and intuitive interfaces to elevate brands.</p>
+                    </div>
+                  </div>
+                  <div className="service-lest-item p-relative d-flex border-bottom">
+                    <span className="block-number">04 /</span>
+                    <div className="icon">
+                      <svg enableBackground="new 0 0 300 300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                        <g>
+                          <path d="m251.757 225.516c-1.562-1.562-4.094-1.562-5.656 0l-2.828 2.828-2.828-2.828c-1.562-1.562-4.094-1.562-5.656 0s-1.562 4.094 0 5.656l2.828 2.828-2.828 2.828c-1.562 1.562-1.562 4.094 0 5.656.781.781 1.805 1.172 2.828 1.172s2.047-.391 2.828-1.172l2.828-2.828 2.828 2.828c.781.781 1.805 1.172 2.828 1.172s2.047-.391 2.828-1.172c1.562-1.562 1.562-4.094 0-5.656l-2.828-2.828 2.828-2.828c1.562-1.563 1.562-4.094 0-5.656z" />
+                          <circle cx="31.272" cy={190} r={4} />
+                          <circle cx="219.272" cy={62} r={4} />
+                          <path d="m215.272 186c-6.617 0-12 5.383-12 12s5.383 12 12 12 12-5.383 12-12-5.382-12-12-12zm0 16c-2.205 0-4-1.793-4-4s1.795-4 4-4 4 1.793 4 4-1.794 4-4 4z" />
+                          <circle cx="121.272" cy={240} r={10} />
+                          <path d="m123.272 94c2.209 0 4-1.789 4-4v-16c0-2.211-1.791-4-4-4s-4 1.789-4 4v16c0 2.211 1.791 4 4 4z" />
+                          <path d="m135.272 98c1.023 0 2.047-.391 2.828-1.172l10-10c1.562-1.562 1.562-4.094 0-5.656s-4.094-1.562-5.656 0l-10 10c-1.562 1.562-1.562 4.094 0 5.656.782.781 1.805 1.172 2.828 1.172z" />
+                          <path d="m108.444 96.828c.781.781 1.805 1.172 2.828 1.172s2.047-.391 2.828-1.172c1.562-1.562 1.562-4.094 0-5.656l-10-10c-1.562-1.562-4.094-1.562-5.656 0s-1.562 4.094 0 5.656z" />
+                          <path d="m274.474 134.402-49.455-24c-.545-.266-1.141-.402-1.746-.402h-32v-55.508c0-9.094-7.398-16.492-16.49-16.492h-103.02c-9.092 0-16.49 7.398-16.49 16.492v55.508h-20.938c-6.1 0-11.062 4.961-11.062 11.062v33.875c0 6.102 4.963 11.062 11.062 11.062h20.938v79.508c0 9.094 7.398 16.492 16.49 16.492h103.02c9.092 0 16.49-7.398 16.49-16.492v-79.507h32c.605 0 1.201-.137 1.746-.402l49.455-24c1.379-.668 2.254-2.066 2.254-3.598s-.875-2.93-2.254-3.598zm-170.759 23.598c-5.201-5.087-8.442-12.169-8.442-20s3.241-14.913 8.442-20h115.558v8h-112c-2.209 0-4 1.789-4 4s1.791 4 4 4h112v8h-80c-2.209 0-4 1.789-4 4s1.791 4 4 4h80v8zm123.557-37.612 16 7.765v19.695l-16 7.765zm-196 34.55v-33.875c0-1.688 1.373-3.062 3.062-3.062h4.938v40h-4.938c-1.688-.001-3.062-1.376-3.062-3.063zm16 3.062v-40h8v40zm127.51 96h-103.019c-4.682 0-8.49-3.809-8.49-8.492v-19.508h120v19.508c-.001 4.683-3.809 8.492-8.491 8.492zm8.49-36h-120v-163.508c0-4.684 3.809-8.492 8.49-8.492h103.02c4.682 0 8.49 3.809 8.49 8.492v55.508h-37.418c-.037-.032-.053-.078-.092-.109-6.352-5.09-14.338-7.891-22.49-7.891-9.151 0-17.49 3.46-23.848 9.105-.046.043-.094.08-.138.125-7.354 6.596-12.014 16.137-12.014 26.77s4.661 20.174 12.014 26.77c.044.046.092.082.138.125 6.358 5.645 14.697 9.105 23.848 9.105 8.222 0 16.229-2.848 22.607-8h37.393zm68-74.034v-11.932l12.293 5.966z" />
+                        </g>
+                      </svg>
+                    </div>
+                    <div className="service-description">
+                      <h4 className="title-block mb-15">Saas Product</h4>
+                      <p className="max-w750">We offers innovative SaaS solutions for streamlined operations and cutting-edge
+                        ecommerce platforms for seamless online retail experiences</p>
+                    </div>
+                  </div>
+                  <div className="service-lest-item p-relative d-flex border-bottom">
+                    <span className="block-number">05 /</span>
+                    <div className="icon">
+                      <svg enableBackground="new 0 0 300 300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                        <g>
+                          <path d="m248.172 54.504c2.502.005 4.533-2.02 4.538-4.521s-2.02-4.533-4.521-4.537c-2.501-.005-4.533 2.02-4.538 4.521s2.02 4.532 4.521 4.537z" />
+                          <path d="m54 44c2.211 0 4-1.789 4-4v-12c0-2.211-1.789-4-4-4s-4 1.789-4 4v12c0 2.211 1.789 4 4 4z" />
+                          <path d="m54 52c-2.211 0-4 1.789-4 4v12c0 2.211 1.789 4 4 4s4-1.789 4-4v-12c0-2.211-1.789-4-4-4z" />
+                          <path d="m34 52h12c2.211 0 4-1.789 4-4s-1.789-4-4-4h-12c-2.211 0-4 1.789-4 4s1.789 4 4 4z" />
+                          <path d="m62 52h12c2.211 0 4-1.789 4-4s-1.789-4-4-4h-12c-2.211 0-4 1.789-4 4s1.789 4 4 4z" />
+                          <path d="m270 268h-80.982l-5.715-20h64.178c12.418 0 22.52-10.102 22.52-22.52v-126.96c-.001-12.418-10.103-22.52-22.521-22.52h-19.824l-30.828-30.828c-.75-.75-1.766-1.172-2.828-1.172h-100c-6.617 0-12 5.383-12 12v20h-21.48c-12.418 0-22.52 10.102-22.52 22.52v126.953c0 12.422 10.105 22.527 22.527 22.527h68.17l-5.716 20h-92.981c-2.211 0-4 1.789-4 4s1.789 4 4 4h240c2.211 0 4-1.789 4-4s-1.789-4-4-4zm-95.02-20 5.715 20h-49.391l5.716-20zm87.02-149.48v113.48h-32v-128h17.48c8.008 0 14.52 6.512 14.52 14.52zm-64-40.864 18.344 18.344h-18.344zm-104-5.656h96v28c0 2.211 1.789 4 4 4h28v128h-132v-156c0-2.207 1.793-4 4-4zm-33.48 32h21.48v128h-36v-113.48c0-8.008 6.512-14.52 14.52-14.52zm-14.52 141.473v-5.473h216v5.48c0 8.008-6.512 14.52-14.52 14.52h-186.953c-8.011 0-14.527-6.516-14.527-14.527z" />
+                          <path d="m155.596 224c-3.378 0-6.117 2.738-6.117 6.116s2.739 6.117 6.117 6.117 6.116-2.739 6.116-6.117-2.738-6.116-6.116-6.116z" />
+                          <path d="m102 132h16c2.211 0 4-1.789 4-4v-4h16.712c-11.24 5.472-18.806 15.892-20.33 28h-4.382c-2.211 0-4 1.789-4 4v16c0 2.211 1.789 4 4 4h16c2.211 0 4-1.789 4-4v-16c0-2.211-1.789-4-4-4h-3.572c1.567-9.578 8.127-17.644 17.556-21.547 2.935 3.37 7.205 5.547 12.016 5.547 4.752 0 8.979-2.122 11.912-5.421 8.745 3.873 14.973 11.672 17.165 21.421h-3.077c-2.211 0-4 1.789-4 4v16c0 2.211 1.789 4 4 4h16c2.211 0 4-1.789 4-4v-16c0-2.211-1.789-4-4-4h-4.764c-2.248-12.466-9.748-22.629-20.537-28h17.301v4c0 2.211 1.789 4 4 4h16c2.211 0 4-1.789 4-4v-16c0-2.211-1.789-4-4-4h-16c-2.211 0-4 1.789-4 4v4h-18.568c-1.788-6.882-7.997-12-15.432-12s-13.644 5.118-15.432 12h-18.568v-4c0-2.211-1.789-4-4-4h-16c-2.211 0-4 1.789-4 4v16c0 2.211 1.789 4 4 4zm24 36h-8v-8h8zm68 0h-8v-8h8zm4-52h8v8h-8zm-42-4c4.41 0 8 3.59 8 8s-3.59 8-8 8-8-3.59-8-8 3.59-8 8-8zm-50 4h8v8h-8z" />
+                        </g>
+                      </svg>
+                    </div>
+                    <div className="service-description">
+                      <h4 className="title-block mb-15">Data Security & Management</h4>
+                      <p className="max-w750">Safeguarding data, ensuring integrity,
+                        and enabling accessibility for efficient management.</p>
+                    </div>
+                  </div>
+                  <div className="service-lest-item p-relative d-flex border-bottom">
+                    <span className="block-number">06 /</span>
+                    <div className="icon">
+                      <svg enableBackground="new 0 0 300 300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+                        <g>
+                          <path d="m474.5 71.5h-26.261c-4.143 0-7.5 3.357-7.5 7.5s3.357 7.5 7.5 7.5h26.261c12.406 0 22.5 10.094 22.5 22.5v34.5h-482v-34.5c0-12.406 10.093-22.5 22.5-22.5h377.809c4.143 0 7.5-3.357 7.5-7.5s-3.357-7.5-7.5-7.5h-377.809c-20.678 0-37.5 16.822-37.5 37.5v82.681c0 4.143 3.358 7.5 7.5 7.5s7.5-3.357 7.5-7.5v-33.181h482v193.366c0 4.143 3.357 7.5 7.5 7.5s7.5-3.357 7.5-7.5v-242.866c0-20.678-16.822-37.5-37.5-37.5z" />
+                          <path d="m504.5 375.994c-4.143 0-7.5 3.357-7.5 7.5v19.506c0 12.406-10.094 22.5-22.5 22.5h-437c-12.407 0-22.5-10.094-22.5-22.5v-179.133c0-4.143-3.358-7.5-7.5-7.5s-7.5 3.357-7.5 7.5v179.133c0 20.678 16.822 37.5 37.5 37.5h437c20.678 0 37.5-16.822 37.5-37.5v-19.506c0-4.142-3.357-7.5-7.5-7.5z" />
+                          <path d="m108.482 234.457c-2.929-2.928-7.678-2.928-10.606 0l-45.07 45.07c-1.407 1.407-2.197 3.314-2.197 5.304s.79 3.896 2.197 5.304l44.474 44.474c1.464 1.464 3.384 2.196 5.303 2.196s3.839-.732 5.303-2.196c2.929-2.93 2.929-7.678 0-10.607l-39.171-39.17 39.767-39.767c2.93-2.93 2.93-7.678 0-10.608z" />
+                          <path d="m209.344 334.608c1.464 1.464 3.384 2.196 5.303 2.196s3.839-.732 5.303-2.196l44.475-44.474c1.406-1.407 2.196-3.314 2.196-5.304s-.79-3.896-2.196-5.304l-45.071-45.07c-2.929-2.928-7.678-2.928-10.606 0-2.929 2.93-2.929 7.678 0 10.607l39.768 39.767-39.171 39.17c-2.93 2.931-2.93 7.679-.001 10.608z" />
+                          <path d="m131.99 362.234c3.025 0 5.876-1.844 7.013-4.841l53.294-140.398c1.47-3.873-.478-8.204-4.35-9.674-3.872-1.471-8.204.478-9.673 4.35l-53.294 140.4c-1.47 3.872.478 8.203 4.35 9.673.876.333 1.775.49 2.66.49z" />
+                          <path d="m33.006 115.371c0 12.406 10.093 22.5 22.5 22.5s22.5-10.094 22.5-22.5-10.093-22.5-22.5-22.5-22.5 10.094-22.5 22.5zm30 0c0 4.136-3.364 7.5-7.5 7.5s-7.5-3.364-7.5-7.5 3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5z" />
+                          <path d="m91.166 115.371c0 12.406 10.093 22.5 22.5 22.5s22.5-10.094 22.5-22.5-10.093-22.5-22.5-22.5-22.5 10.094-22.5 22.5zm30 0c0 4.136-3.364 7.5-7.5 7.5s-7.5-3.364-7.5-7.5 3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5z" />
+                          <path d="m149.325 115.371c0 12.406 10.093 22.5 22.5 22.5s22.5-10.094 22.5-22.5-10.093-22.5-22.5-22.5-22.5 10.094-22.5 22.5zm30 0c0 4.136-3.364 7.5-7.5 7.5s-7.5-3.364-7.5-7.5 3.364-7.5 7.5-7.5 7.5 3.364 7.5 7.5z" />
+                          <path d="m335.5 242.368h47c12.406 0 22.5-10.094 22.5-22.5s-10.094-22.5-22.5-22.5h-47c-12.406 0-22.5 10.094-22.5 22.5s10.094 22.5 22.5 22.5zm0-30h47c4.136 0 7.5 3.364 7.5 7.5s-3.364 7.5-7.5 7.5h-47c-4.136 0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5z" />
+                          <path d="m335.5 302.368h124c12.406 0 22.5-10.094 22.5-22.5s-10.094-22.5-22.5-22.5h-124c-12.406 0-22.5 10.094-22.5 22.5s10.094 22.5 22.5 22.5zm0-30h124c4.136 0 7.5 3.364 7.5 7.5s-3.364 7.5-7.5 7.5h-124c-4.136 0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5z" />
+                          <path d="m335.5 362.368h87.165c12.406 0 22.5-10.094 22.5-22.5s-10.094-22.5-22.5-22.5h-87.165c-12.406 0-22.5 10.094-22.5 22.5s10.094 22.5 22.5 22.5zm0-30h87.165c4.136 0 7.5 3.364 7.5 7.5s-3.364 7.5-7.5 7.5h-87.165c-4.136 0-7.5-3.364-7.5-7.5s3.364-7.5 7.5-7.5z" />
+                        </g>
+                      </svg>
+                    </div>
+                    <div className="service-description">
+                      <h4 className="title-block mb-15">Application Audit & Debugging</h4>
+                      <p className="max-w750">Rest assured with our meticulous 
+                      debugging and auditing services for optimized performance.</p>
                     </div>
                   </div>
                 </div>
               </div>
               {/* ========== End services Section ========== */}
               {/* ========== awards Section ========== */}
-              <div className="awards-section p-relative section-margin" data-dsn-title="Awards">
+              <section>
+                {/* <div className="awards-section p-relative section-margin" data-dsn-title="Awards">
                 <div className="container">
                   <div className="row">
                     <div className="col-lg-6">
@@ -242,11 +300,12 @@ function Aboutus() {
                     </div>
                   </div>
                 </div>
-              </div>
+              </div> */}
+              </section>
               {/* ========== End awards Section ========== */}
               {/* ========== Team Section ========== */}
               <section className="team team-about section-margin p-relative" data-dsn-title="Team">
-                <div className="container mb-70 d-flex flex-column">
+                {/* <div className="container mb-70 d-flex flex-column">
                   <p className="sub-heading line-shap line-shap-before mb-15">
                     <span className="line-bg-right"> our team</span>
                   </p>
@@ -335,7 +394,7 @@ function Aboutus() {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
               </section>
               {/* ========== End Team Section ========== */}
               {/* ========== testimonial Section ========== */}
@@ -468,7 +527,7 @@ function Aboutus() {
                   <p className="sub-heading line-shap line-shap-before mb-15">
                     <span className="line-bg-right"> Our clients</span>
                   </p>
-                  <h2 className="section-title">Your successful,<br /> our
+                  <h2 className="section-title">Your success,<br /> our
                     reputation</h2>
                 </div>
                 <div className="container">
@@ -505,12 +564,12 @@ function Aboutus() {
                     </div>
                     <div className="logo-box dsn-up">
                       <div className="logo-box-inner">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/1.png" alt="" />
+                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/7.png" alt="" />
                       </div>
                     </div>
                     <div className="logo-box dsn-up">
                       <div className="logo-box-inner">
-                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/3.png" alt="" />
+                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/logo/8.png" alt="" />
                       </div>
                     </div>
                   </div>

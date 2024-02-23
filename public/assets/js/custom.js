@@ -1484,9 +1484,9 @@
                         _target.gsap.to( numbers, 4, {
                             value: c.text(), ease: Back.easeOut.config( 1.2 ),
 
-                            onUpdate: function () {
-                                c.text( dsnGrid.numberText( numbers.value.toFixed( 0 ) ) );
-                            },
+                            // onUpdate: function () {
+                            //     c.text( dsnGrid.numberText( numbers.value.toFixed( 0 ) ) );
+                            // },
                             onComplete: function () {
                                 c = numbers = null;
                             },

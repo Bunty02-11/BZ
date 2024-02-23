@@ -58,12 +58,12 @@ function Footer() {
                         <img src="assets/img/scroll_top.svg" alt="" />
                         <i className="fa fa-angle-up" />
                       </div>
-                      <div className="column-right">
+                      {/* <div className="column-right">
                         <h5>2021 © Made with <span className="love">♥</span>by
                           <a className="link-hover" data-hover-text="Design Grid." target="_blank" rel="nofollow" href="https://themeforest.net/user/design_grid/portfolio/">Design
                             Grid.</a>
                         </h5>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                 </div>
