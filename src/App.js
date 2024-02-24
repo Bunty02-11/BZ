@@ -1,13 +1,45 @@
-import React, { useEffect, ReactDOM } from 'react'
+import React, { useEffect, useState, ReactDOM } from 'react'
 import { gsap } from "gsap";
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './Component/Mainpage/Home'
 import Contactus from './Component/Contact/Contactus';
 import Aboutus from './Component/About/Aboutus';
 import Service from './Component/Services/Service';
+import { useLocation } from 'react-router-dom';
 
+
+
+// function preloader
+
+function Preloader() {
+  const [isLoading, setIsLoading] = useState(true);
+  const location = useLocation();
+
+  useEffect(() => {
+    setIsLoading(true);
+    setTimeout(() => {
+      setIsLoading(false);
+    }, 2000);
+  }, [location]);
+
+  return isLoading ? (
+    <div className="preloader">
+      <span className="percent">0</span>
+      <span className="loading-text text-uppercase">Loading ...</span>
+      <div className="preloader-bar">
+        <div className="preloader-progress" />
+      </div>
+      <h1 className="title v-middle">
+        <span className="text-strok">BZ TECH</span>
+        <span className="text-fill">BZ TECH</span>
+      </h1>
+    </div>
+  ) : null;
+}
 
 function App() {
+
+
   useEffect(() => {
     const loadScript = (src) => {
       const script = document.createElement('script');
@@ -33,20 +65,16 @@ function App() {
   }, []);
 
   return (
-    <div className="">
+    <div >
       <BrowserRouter>
+        <Preloader />
         <Routes>
-          <Route path="/"
-            element={<Home />} />
-          <Route path="/contact"
-            element={<Contactus />} />
-          <Route path="/about"
-            element={<Aboutus />} />
-          <Route path="/service"
-            element={<Service />} />
+          <Route excat path="/"  element={<Home />} />
+          <Route exact path="/contact" element={<Contactus />} />
+          <Route exact path="/about" element={<Aboutus />} />
+          <Route exact path="/service" element={<Service />} />
         </Routes>
       </BrowserRouter>
-
     </div>
   );
 }

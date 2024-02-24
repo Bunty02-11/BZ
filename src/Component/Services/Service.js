@@ -35,8 +35,7 @@ function Service() {
                     <p className="subtitle p-relative line-shap  ">
                       <span className="pl-10 pr-10 background-main dsn-load-animate">OUR SERVICES</span>
                     </p>
-                    <h1 className="title mt-30  dsn-load-animate">We are delivering beautiful <br /> digital
-                      products for you.
+                    <h1 className="title mt-30  dsn-load-animate">Transforming digital landscapes with <br /> innovative solutions
                     </h1>
                   </div>
                 </div>
@@ -50,8 +49,7 @@ function Service() {
                       <div className="box-left">
                         <div className="section-title">
                           <p className="sub-heading line-bg-left mb-25">What We Do</p>
-                          <h4>The good writers touch life often. The mediocre ones run a quick hand
-                            over her. The bad ones rape her and leave her for the flies.</h4>
+                          <h4>We design products that are more than pretty. We make them shippable and usable. Ignite Your Potential with BZ Tech, Where Transformation Begins.</h4>
                         </div>
                       </div>
                     </div>
@@ -59,12 +57,13 @@ function Service() {
                       <div className="box-right">
                         <ul>
                           <li className="sub-heading line-bg-left mb-25">Our Services</li>
-                          <li className="mb-15">Brand Consulting</li>
+                          <li className="mb-15">Software developemt </li>
                           <li className="mb-15">Marketing Management</li>
-                          <li className="mb-15">Customer Insight</li>
+                          <li className="mb-15">Web and Mobile App Design</li>
                         </ul>
                       </div>
                     </div>
+
                   </div>
                 </div>
               </section>
@@ -77,7 +76,7 @@ function Service() {
                   <div className="d-grid grid-lg-4 grid-sm-2">
                     <div className="facts-item">
                       <div className="text-center p-relative">
-                        <span className="number">99</span>
+                        <span className="number">67</span>
                         <h6 className="sm-title-block v-middle w-100">Happy Clients</h6>
                       </div>
                     </div>
@@ -95,7 +94,7 @@ function Service() {
                     </div>
                     <div className="facts-item">
                       <div className="text-center p-relative">
-                        <span className="number">87</span>
+                        <span className="number">57</span>
                         <h6 className="sm-title-block v-middle w-100">Succeeded Projects</h6>
                       </div>
                     </div>
@@ -110,7 +109,7 @@ function Service() {
                     <div className="col-lg-6  dsn-z-index-2 pr-0">
                       <div className="box-im h-100 ">
                         <div className="img-container h-100" data-dsn-grid="move-up">
-                          <img className="cover-bg-img " data-dsn-speed={2} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/rachel-claire.jpg" alt="" />
+                          <img className="cover-bg-img " data-dsn-speed={2} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" alt="" />
                         </div>
                       </div>
                     </div>
@@ -122,30 +121,32 @@ function Service() {
                           </div>
                           <div className="d-flex text-left flex-column align-items-start ">
                             <div className="mb-30">
-                              <p className="sub-heading line-bg-left mb-15">We make digital</p>
-                              <h2 className="section-title  title-cap">Make better products make
-                                products better</h2>
+                              <p className="sub-heading line-bg-left mb-15">What you can expect</p>
+                              <h4 className="section-title  title-cap" style={{ fontSize: "20px" }}>From inception to launch, we provide end-to-end project strategy and development services</h4>
                             </div>
                           </div>
                           <div className="d-flex border-top pt-30 mb-30">
                             <ul className="w-50 pr-10">
                               <li className="lest-number mb-15 d-flex">
                                 <i className="fas fa-check-circle theme-color mr-15" />
-                                <span className="sm-title-block">Proin gravida nibh vel</span>
+                                <span className="sm-title-block">Web and Mobile App Design</span>
                               </li>
                               <li className="lest-number d-flex">
                                 <i className="fas fa-check-circle theme-color mr-15" />
-                                <span className="sm-title-block">Auctor aliquet aenean quis</span>
+                                <span className="sm-title-block">Project Strategy & Development
+                                </span>
                               </li>
                             </ul>
                             <ul className="w-50 pl-10">
                               <li className="lest-number mb-15 d-flex">
                                 <i className="fas fa-check-circle theme-color mr-15" />
-                                <span className="sm-title-block">Proin gravida nibh vel</span>
+                                <span className="sm-title-block">UI/UX Design & Optimization
+                                </span>
                               </li>
                               <li className="lest-number d-flex">
                                 <i className="fas fa-check-circle theme-color mr-15" />
-                                <span className="sm-title-block">Auctor aliquet aenean quis</span>
+                                <span className="sm-title-block">Application Audit & Debugging
+                                </span>
                               </li>
                             </ul>
                           </div>
@@ -165,10 +166,9 @@ function Service() {
                               </svg>
                             </div>
                             <div className="content d-flex flex-column justify-content-center">
-                              <h4 className="title-block mb-15">Best Practices from Industry Experts
+                              <h4 className="title-block mb-15">Success merges passion and expertise. Our team of devoted professionals delivers exceptional results by going above and beyond for clients
                               </h4>
-                              <p>We’ve designed a culture that allows our stewards to assimilate
-                                with our clients and bring.</p>
+                              <p>So whether you're looking to streamline your operations, enhance your digital presence, or transform your business for the future, BZ TECH is here to help.</p>
                             </div>
                           </div>
                         </div>
@@ -191,23 +191,21 @@ function Service() {
                           <div className="d-flex text-left flex-column align-items-start ">
                             <div className="mb-30">
                               <p className="sub-heading line-bg-left mb-15">
-                                Some Feature
+                                About us
                               </p>
-                              <h2 className="section-title  title-cap">BUSINESS CONSULTING</h2>
+                              <h2 className="section-title  title-cap">We super-charge your business today!
+                              </h2>
                             </div>
                           </div>
                           <p className="max-w570  mb-10 border-top pt-30">
-                            Founded in 2000, Dsn Grid has become one of the best Digital Agency in
-                            ThemeForest Blue money going forward.
+                            When you choose BZ Tech, you're not just getting a service provider - you're entering into a partnership built on trust, transparency, and collaboration.
                           </p>
                           <p className="max-w570  border-bottom pb-30">
-                            but deploy to production. C-suite. First-order optimal
-                            strategies build on a culture of contribution and inclusion so those
-                            options
+                            We take the time to truly understand your business, its goals, and its challenges. This allows us to develop customized solutions that drive real, measurable results.
                           </p>
                           <a target="_blank" href="#" className="visit-site mt-30">
                             <span className="inner-visit d-flex align-items-center">
-                              <span className="text text-uppercase">Visit Website</span>
+                              <span className="text text-uppercase">BZ Tech</span>
                               <span className="icon">
                                 <svg viewBox="0 0 40 40">
                                   <polyline className="path" points="14.6 17.45 20 22.85 25.4 17.45">
@@ -222,7 +220,7 @@ function Service() {
                     <div className="col-lg-6  dsn-z-index-2 pl-0">
                       <div className="box-im h-100 ">
                         <div className="img-container h-100" data-dsn-grid="move-up">
-                          <img className="cover-bg-img " data-dsn-speed={4} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/help-project.jpg" alt="" />
+                          <img className="cover-bg-img " data-dsn-speed={4} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://i.pinimg.com/originals/68/45/e3/6845e3e3b96d3ccb85dcbb9880351074.gif" alt="" />
                         </div>
                       </div>
                     </div>
@@ -234,7 +232,7 @@ function Service() {
               <div className="box-gallery-vertical box-gallery-content background-section section-padding" data-dsn-animate="section" data-dsn-duration="100%" data-dsn="color">
                 <div className="container d-flex text-center flex-column align-items-center ">
                   <div className="mb-70">
-                    <p className="sub-heading mb-15 background-main p-5 d-inline-block">Most have theme </p>
+                    <p className="sub-heading mb-15 background-main p-5 d-inline-block">Other Services </p>
                     <h2 className="section-title  title-cap">BUSINESS CONSULTING</h2>
                     <p className="max-w570 mt-15">We’ve designed a culture that allows our stewards to
                       assimilate with our clients and bring.</p>
@@ -250,42 +248,39 @@ function Service() {
                           </div>
                           <div className=" mb-50 d-flex text-left flex-column align-items-start">
                             <p className="sub-heading line-shap line-shap-after mb-15">
-                              <span className="line-bg-left">Project Manager</span>
+                              <span className="line-bg-left">Creative Tech Synthesis
+                              </span>
                             </p>
-                            <h4 className="title-cap">Get Dsn Grid today and start building
-                              next-generation websites in minutes!</h4>
+                            <h4 className="title-cap">We leverage evolving tech, expertise, and collaboration for efficient solutions!</h4>
                           </div>
                           <div className="box d-flex mb-30">
                             <div className="box-img mr-20">
-                              <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/1.jpg" alt="" />
+                            <i className="fa fa-users" aria-hidden="true"></i>
+
+                              {/* <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://res.cloudinary.com/dsj9t6adh/image/upload/v1708785120/cr1vd6z169kylhfchyr1.png" alt="" /> */}
                             </div>
                             <div className="content d-flex flex-column justify-content-center">
-                              <h5 className="sm-title-block mb-10">Build powerful websites with
-                                Essentials</h5>
-                              <p>We’ve designed a culture that allows our stewards to assimilate
-                                with our clients and bring.</p>
+                              <h5 className="sm-title-block mb-10">In-House Talent</h5>
+                              <p>We leverage our in-house expertise alongside outsourced resources to optimize development efficiency and deliver high-quality solutions..</p>
                             </div>
                           </div>
                           <div className="box d-flex mb-30">
                             <div className="box-img mr-20">
-                              <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/2.jpg" alt="" />
+                              <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://cdn-icons-png.flaticon.com/512/5741/5741483.png" alt="" />
                             </div>
                             <div className="content d-flex flex-column justify-content-center">
-                              <h5 className="sm-title-block mb-10">Build powerful websites with
-                                Essentials</h5>
-                              <p>We’ve designed a culture that allows our stewards to assimilate
-                                with our clients and bring.</p>
+                              <h5 className="sm-title-block mb-10">Customized Suite of E-Commerce, HRMS,SAAS ,CMM, and CRM </h5>
+                              <p>We seamlessly integrate our customized e-commerce, HRMS, CMM, and CRM solutions, serving over 100 satisfied customers, empowering them in their daily business operations.</p>
                             </div>
                           </div>
                           <div className="box d-flex">
                             <div className="box-img mr-20">
-                              <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/3.jpg" alt="" />
+                              <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://i.pinimg.com/736x/f7/6b/f5/f76bf566cdf6c48fc91256cdd477986f.jpg" alt="" />
                             </div>
                             <div className="content d-flex flex-column justify-content-center">
-                              <h5 className="sm-title-block mb-10">Build powerful websites with
-                                Essentials</h5>
-                              <p>We’ve designed a culture that allows our stewards to assimilate
-                                with our clients and bring.</p>
+                              <h5 className="sm-title-block mb-10">How We Work?</h5>
+                              <p>
+                                Navigating tech advancements poses challenges. From digitization to custom software, identifying needs, planning, and resource management can be overwhelming..</p>
                             </div>
                           </div>
                         </div>
@@ -294,7 +289,7 @@ function Service() {
                     <div className="col-lg-6  dsn-z-index-2 pl-0">
                       <div className="box-im h-100 ">
                         <div className="img-container h-100" data-dsn-grid="move-up">
-                          <img className="cover-bg-img " data-dsn-speed={4} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/corprate.jpg" alt="" />
+                          <img className="cover-bg-img " data-dsn-speed={4} src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://www.binarycode.co.nz/wp-content/uploads/2023/02/SharePoint-Consulting.gif" alt="" />
                         </div>
                       </div>
                     </div>
@@ -338,8 +333,7 @@ function Service() {
                         </div>
                         <div className="content ml-0">
                           <h4 className="title-block mb-15">High Creative Minds</h4>
-                          <p>We’ve designed a culture that allows our stewards to assimilate with our
-                            clients and bring.</p>
+                          <p>Elevating Software Solutions with Innovation and Imagination.</p>
                         </div>
                       </div>
                       <div className="service-lest-item p-relative">
@@ -353,9 +347,8 @@ function Service() {
                           </svg>
                         </div>
                         <div className="content ml-0">
-                          <h4 className="title-block mb-15">Best selling author</h4>
-                          <p>We’ve designed a culture that allows our stewards to assimilate with our
-                            clients and bring.</p>
+                          <h4 className="title-block mb-15">Unlock Efficiency</h4>
+                          <p>Outsource your development to streamline your software solutions and scale your success effortlessly.</p>
                         </div>
                       </div>
                     </div>
@@ -364,78 +357,7 @@ function Service() {
               </div>
               {/* ========== End box-gallery-vertical Section ========== */}
               {/* ========== team Section ========== */}
-              <section className="team tam-classic section-margin p-relative " data-dsn-animate="section">
-                <div className="container mb-70 d-flex text-left flex-column align-items-start">
-                  <p className="sub-heading line-shap line-shap-after mb-15">
-                    <span className="line-bg-left"> our team</span>
-                  </p>
-                  <h2 className="section-title  title-cap">The best team ever!</h2>
-                </div>
-                <div className="container ">
-                  <div className="d-grid grid-lg-3 grid-sm-2">
-                    <div className="team-item ">
-                      <div className="team-item-inner">
-                        <div className="team-item-wapper background-section">
-                          <div className="item-content d-flex a-item-center">
-                            <div className="box-img">
-                              <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/1.jpg" alt="" />
-                            </div>
-                            <div className="box-text">
-                              <h4 className="title-block mb-10">Ahmed Shawky</h4>
-                              <h5 className="theme-color">Co-Founder / Design</h5>
-                              <ul className="box-social mt-15">
-                                <li data-dsn="parallax"><a href="#">FB</a></li>
-                                <li data-dsn="parallax"><a href="#">TW</a></li>
-                                <li data-dsn="parallax"><a href="#">LN</a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="team-item ">
-                      <div className="team-item-inner">
-                        <div className="team-item-wapper background-section">
-                          <div className="item-content d-flex a-item-center">
-                            <div className="box-img">
-                              <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/2.jpg" alt="" />
-                            </div>
-                            <div className="box-text">
-                              <h4 className="title-block mb-10">HISHAM MEGAHED</h4>
-                              <h5 className="theme-color">Co-Founder</h5>
-                              <ul className="box-social mt-15">
-                                <li data-dsn="parallax"><a href="#">FB</a></li>
-                                <li data-dsn="parallax"><a href="#">TW</a></li>
-                                <li data-dsn="parallax"><a href="#">LN</a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div className="team-item ">
-                      <div className="team-item-inner">
-                        <div className="team-item-wapper background-section">
-                          <div className="item-content d-flex a-item-center">
-                            <div className="box-img">
-                              <img className="cover-bg-img" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/3.jpg" alt="" />
-                            </div>
-                            <div className="box-text">
-                              <h4 className="title-block mb-10">JEREMY SMITH</h4>
-                              <h5 className="theme-color">Creative Director</h5>
-                              <ul className="box-social mt-15">
-                                <li data-dsn="parallax"><a href="#">FB</a></li>
-                                <li data-dsn="parallax"><a href="#">TW</a></li>
-                                <li data-dsn="parallax"><a href="#">LN</a></li>
-                              </ul>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </section>
+
             </div>
             <Footer />
           </div>
