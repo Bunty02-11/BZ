@@ -1,6 +1,6 @@
 import React, { useEffect, useState, ReactDOM } from 'react'
 import { gsap } from "gsap";
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import Home from './Component/Mainpage/Home'
 import Contactus from './Component/Contact/Contactus';
 import Aboutus from './Component/About/Aboutus';
@@ -66,7 +66,7 @@ function App() {
 
   return (
     <div >
-      <BrowserRouter>
+      <HashRouter>
         <Preloader />
         <Routes>
           <Route excat path="/"  element={<Home />} />
@@ -74,7 +74,7 @@ function App() {
           <Route exact path="/about" element={<Aboutus />} />
           <Route exact path="/service" element={<Service />} />
         </Routes>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

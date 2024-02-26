@@ -82,15 +82,15 @@ function Aboutus() {
                         <div className="d-grid d-grid-no-space grid-md-3 grid-sm-1">
                           <div className="item d-flex align-items-center">
                             <i className="fas fa-check theme-color" />
-                            <h4 className="title-block ml-15">Advanced Grid</h4>
+                            <h4 className="title-block ml-15">Crafting Code, Inspiring Futures</h4>
                           </div>
                           <div className="item d-flex align-items-center">
                             <i className="fas fa-check theme-color" />
-                            <h4 className="title-block ml-15">Top Performance</h4>
+                            <h4 className="title-block ml-15">Where Innovation Meets Functionality</h4>
                           </div>
                           <div className="item d-flex align-items-center">
                             <i className="fas fa-check theme-color" />
-                            <h4 className="title-block ml-15">Responsive Design</h4>
+                            <h4 className="title-block ml-15">Empowering Tomorrow's Solutions, Today.</h4>
                           </div>
                         </div>
                       </div>
