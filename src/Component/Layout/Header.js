@@ -1,7 +1,10 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 
 function Header() {
+  const handleClick = (menu) => {
+    console.log('Button clicked')
+  }
   const navigate = useNavigate();
 
   const reloadHomePage = () => {
@@ -19,6 +22,12 @@ function Header() {
   const reloadServicePage = () => {
     navigate("/service");
     window.scrollTo(0, 0);
+    window.location.reload();
+  }
+
+  const reloadPortfolioPage = () => {
+    navigate("/portfolio");
+    window.scrollTo(0,0);
     window.location.reload();
   }
 
@@ -41,7 +50,7 @@ function Header() {
           </div>
           <div className="menu-icon d-flex align-items-baseline">
             <div className="text-menu p-relative  font-heading text-transform-upper">
-              <div className="p-absolute text-button">Menu</div>
+              <div className="p-absolute text-button"><button onClick={() => this.handleClick()}> Menu </button></div>
               <div className="p-absolute text-open">Open</div>
               <div className="p-absolute text-close">Close</div>
             </div>
@@ -72,12 +81,12 @@ function Header() {
                   <span className="dsn-bg-arrow" />
                 </a>
               </li>
-              {/* <li >
-                <a className="user-no-selection">
+              <li >
+                <a onClick={reloadPortfolioPage}>
                   <span className="dsn-title-menu">Portfolio</span>
                   <span className="dsn-bg-arrow" />
                 </a>
-              </li> */}
+              </li> 
               <li>
                 <a onClick={reloadContactPage} style={{ cursor: 'pointer' }}>
                   <span className="dsn-title-menu">Contact</span>

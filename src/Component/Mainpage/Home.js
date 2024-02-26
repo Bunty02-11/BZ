@@ -518,7 +518,7 @@ function Home() {
                   <div className="container">
                     <div className="testimonials-box box-padding p-relative w-100 background-section">
                       <div className="row">
-                        <div className="col-lg-4 ">
+                        <div className="col-lg-4">
                           <div className="text-left">
                             <h2 className="section-title" data-dsn-grid="move-section" data-dsn-move={-60} data-dsn-duration="100%" data-dsn-opacity={1} data-dsn-responsive="tablet">Feedback from our clients.</h2>
                           </div>
@@ -531,38 +531,38 @@ function Home() {
                                   <div className="swiper-wrapper">
                                     <div className="swiper-slide d-flex align-items-center">
                                       <div className="box-img mr-15" data-swiper-parallax-scale="0.7">
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/2.jpg" alt="" />
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://res.cloudinary.com/dsj9t6adh/image/upload/v1708784515/juwdokibmdbdgcza2f31.png" alt="" />
                                       </div>
                                       <div className="box-text" data-swiper-parallax="30%" data-swiper-parallax-opacity={0}>
-                                        <h4 className="title-block mb-10">HellstarWorks</h4>
-                                        <h5 className="sm-title-block">Envato Customer</h5>
+                                        <h4 className="title-block mb-10">Sameer C.R</h4>
+                                        <h5 className="sm-title-block">Care Connect</h5>
                                       </div>
                                     </div>
                                     <div className="swiper-slide d-flex align-items-center">
                                       <div className="box-img mr-15" data-swiper-parallax-scale="0.7">
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/1.jpg" alt="" />
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://res.cloudinary.com/dsj9t6adh/image/upload/v1708784608/pzwmmmf0xtru9sevw4ij.png" alt="" />
                                       </div>
                                       <div className="box-text" data-swiper-parallax="30%" data-swiper-parallax-opacity={0}>
-                                        <h4 className="title-block mb-10">lindamiku</h4>
-                                        <h5 className="sm-title-block">Marketing Manager</h5>
+                                        <h4 className="title-block mb-10">Takase Masanao</h4>
+                                        <h5 className="sm-title-block">Zuno </h5>
                                       </div>
                                     </div>
                                     <div className="swiper-slide d-flex align-items-center">
                                       <div className="box-img mr-15" data-swiper-parallax-scale="0.7">
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/3.jpg" alt="" />
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://res.cloudinary.com/dsj9t6adh/image/upload/v1708784799/rh7l7gaxeamgzlfna6al.png" alt="" />
                                       </div>
                                       <div className="box-text" data-swiper-parallax="30%" data-swiper-parallax-opacity={0}>
-                                        <h4 className="title-block mb-10">makrandpatne</h4>
-                                        <h5 className="sm-title-block">Web Designer</h5>
+                                        <h4 className="title-block mb-10">Rbl</h4>
+                                        <h5 className="sm-title-block">Winjit Solutions</h5>
                                       </div>
                                     </div>
                                     <div className="swiper-slide d-flex align-items-center">
                                       <div className="box-img mr-15" data-swiper-parallax-scale="0.7">
-                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="assets/img/team/3.jpg" alt="" />
+                                        <img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-dsn-src="https://res.cloudinary.com/dsj9t6adh/image/upload/v1688328396/LocoPA_1592313175874_1592313196211_fefslk.webp" alt="" />
                                       </div>
                                       <div className="box-text" data-swiper-parallax="30%" data-swiper-parallax-opacity={0}>
-                                        <h4 className="title-block mb-10">MTLGraphic</h4>
-                                        <h5 className="sm-title-block">Graphic Design</h5>
+                                        <h4 className="title-block mb-10">Michael P. </h4>
+                                        <h5 className="sm-title-block">Founder of GHI Technologies</h5>
                                       </div>
                                     </div>
                                   </div>
@@ -573,42 +573,30 @@ function Home() {
                               <div className="swiper-container">
                                 <div className="swiper-wrapper">
                                   <div className="swiper-slide">
-                                    <p>"The designer is just amazing! Very good quality and
-                                      taste.
-                                      This template is incredible beautiful. The overall
-                                      impression
-                                      is more than good.The support cannot be better. I wish
-                                      the
-                                      team all success!"</p>
+                                    <p>"BZ TECH's expertise in software development is unmatched. 
+                              Their team not only delivered a flawless product but also provided excellent support throughout the entire process.
+                               We're incredibly satisfied with the results and would highly recommend their services to anyone 
+                               seeking top-notch software solutions"</p>
                                   </div>
                                   <div className="swiper-slide">
-                                    <p>"First of all, I really enjoyed setting this up. What a
-                                      great
-                                      layout and design. The support is fast and high quality.
-                                      They
-                                      really made an effort to make sure I got the help I
-                                      needed.
-                                      keep in mind that it is not only a great design, but
-                                      also it
-                                      is easy to change it up with little effort. Great Job!"
+                                    <p>"Working with BZ TECH was a game-changer for our business. 
+                                      Their innovative approach to software development streamlined our 
+                                      operations and significantly improved efficiency. Their team's 
+                                      professionalism and commitment to excellence are truly commendable.
+                                       We look forward to collaborating with them on future projects."
                                     </p>
                                   </div>
                                   <div className="swiper-slide">
-                                    <p>"This theme is awesome and the designer is very helpful.
-                                      I
-                                      had a few questions before purchase. He/She helped me
-                                      with
-                                      all the doubts. Also, they provide quick support. Thank
-                                      you
-                                      so much for a beautiful theme"</p>
+                                    <p>"BZ TECH exceeded our expectations in every aspect. From conceptualization to execution,
+                                       their team demonstrated unparalleled expertise and dedication. 
+                                       The software solution they developed for us not only met our requirements but also added tremendous value to our business.
+                                       We're grateful for their outstanding work and would undoubtedly choose them again for future projects."</p>
                                   </div>
                                   <div className="swiper-slide">
-                                    <p>"Basically im using this theme as a base for my new
-                                      website
-                                      and i couldnt be happier. Ran into some bumps but the
-                                      team
-                                      who developed this theme was there to help me with any
-                                      problems. Very slick nice ajax portfolio theme"</p>
+                                    <p>"BZ TECH is a reliable partner that consistently delivers exceptional results. 
+                                      Their ability to understand our unique needs and translate them into innovative software solutions is truly remarkable. 
+                                      Working with them was a seamless experience, and we're thrilled with the outcome. 
+                                      I wholeheartedly endorse BZ TECH to anyone looking for top-tier software development services"</p>
                                   </div>
                                 </div>
                               </div>
