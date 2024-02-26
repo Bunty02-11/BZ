@@ -293,7 +293,7 @@
 
             return {
                 ajaxLoad: function () {
-                    if ( !$body.hasClass( "dsn-ajax" ) ) return;
+                    if ( !$body.hasClass( "" ) ) return;
                     let $parent = this;
                     this.ajaxClick.off( "click" );
                     this.ajaxClick.on( "click", function ( e ) {
@@ -301,7 +301,7 @@
                         e.preventDefault();
                         let _that = $( this ),
                             url = _that.attr( "href" ),
-                            _type = _that.data( "dsn-ajax" );
+                            _type = _that.data( "" );
 
                         if ( url.indexOf( "#" ) >= 0 || url === undefined ) {
                             _that = url = _type = null;
