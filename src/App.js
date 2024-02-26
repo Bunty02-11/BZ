@@ -1,11 +1,11 @@
 import React, { useEffect, useState, ReactDOM } from 'react'
 import { gsap } from "gsap";
-import { HashRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route, useLocation } from 'react-router-dom';
 import Home from './Component/Mainpage/Home'
 import Contactus from './Component/Contact/Contactus';
 import Aboutus from './Component/About/Aboutus';
 import Service from './Component/Services/Service';
-import { useLocation } from 'react-router-dom';
+import Portfolio from './Component/Portfolio/Portfolio';
 
 
 
@@ -69,10 +69,16 @@ function App() {
       <HashRouter>
         <Preloader />
         <Routes>
-          <Route excat path="/"  element={<Home />} />
-          <Route exact path="/contact" element={<Contactus />} />
-          <Route exact path="/about" element={<Aboutus />} />
-          <Route exact path="/service" element={<Service />} />
+          <Route path="/"
+            element={<Home />} />
+          <Route path="/contact"
+            element={<Contactus />} />
+          <Route path="/about"
+            element={<Aboutus />} />
+             <Route path="/portfolio"
+            element={<Portfolio />} />
+          <Route path="/service"
+            element={<Service />} />
         </Routes>
       </HashRouter>
     </div>
